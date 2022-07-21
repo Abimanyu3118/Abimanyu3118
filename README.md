@@ -2,7 +2,7 @@
 - 👀 I’m interested in automating things
 - 🌱 I’m currently learning Playwright and Detox
 - ✨ I’m looking to collaborate on automation frameworks
-- 📫 Mail me @[m.abimanyu@gamil.com]
+- 📫 Mail me @[m.abimanyu@gmail.com]
 
 <!---
 Abimanyu3118/Abimanyu3118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

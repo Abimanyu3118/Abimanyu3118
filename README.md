@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abimanyu
 - 👀 I’m interested in automating things
 - 🌱 I’m currently learning Playwright and Detox
-- 💞️ I’m looking to collaborate on automation frameworks
+- ✨ I’m looking to collaborate on automation frameworks
 - 📫 Mail me @[m.abimanyu@gamil.com]
 
 <!---
